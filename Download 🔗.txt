@@ -1,0 +1,9 @@
+To download the full project follow this link given below 👇
+
+The pretrained teacher model archive is hosted on Hugging Face.
+
+https://huggingface.co/Shree-Harini-K/dental-lesion-teacher-model/tree/main
+
+Archive: DentalLesion_TeacherModel.zip
+
+Size: Approximately 36.66 GB.
